@@ -1,0 +1,20 @@
+This project focuses on predicting the Remaining Useful Life (RUL) of aircraft engines using the CMAPSS FD001 dataset.
+
+Machine learning models like Random Forest, XGBoost, GRU, and LSTM were used for RUL prediction.
+
+The models were trained on historical sensor data and validated using RMSE as the evaluation metric.
+
+Accurate RUL predictions help optimize maintenance schedules, reduce unexpected failures, and improve safety.
+
+The project demonstrates the importance of predictive maintenance in enhancing the reliability and safety of critical systems in the aviation industry.
+
+Future improvements could include refining the models, testing across different engine types, and incorporating more features for better accuracy.
+
+✨ Applications 
+Predictive maintenance in aerospace industry. 
+Extensible to other machinery health monitoring tasks. 
+Reduces maintenance cost and increases system safety. 
+
+🙌 Acknowledgements
+NASA CMAPSS dataset. 
+Libraries: Scikit-learn, XGBoost, TensorFlow/Keras, NumPy, Pandas, Matplotlib.
